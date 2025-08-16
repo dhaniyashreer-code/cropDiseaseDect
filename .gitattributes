@@ -1,0 +1,1 @@
+dist/crop_advisor.exe filter=lfs diff=lfs merge=lfs -text
